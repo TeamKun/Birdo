@@ -1,0 +1,5 @@
+name: Birdo
+version: ${project.version}
+main: net.kunmc.lab.birdo.Birdo
+api-version: 1.15
+authors: [Kamesuta]
